@@ -329,7 +329,7 @@ if x == 1234568:
                          1.ADD 
                          2.GET_INFO
                          3.DELETE
-                         4.UPDATE
+                         4.UPDATEs
                         
                              ''')
           t22=""
